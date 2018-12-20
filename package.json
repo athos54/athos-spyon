@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "athos-spyon:toggle"
   },
-  "repository": "https://github.com/atom/athos-spyon",
+  "repository": "https://github.com/athos54/athos-spyon",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
