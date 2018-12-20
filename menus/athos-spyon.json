@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle athos-spyon",
+        "command": "athos-spyon:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "athos-spyon",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "athos-spyon:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
